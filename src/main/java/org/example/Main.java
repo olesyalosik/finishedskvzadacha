@@ -30,7 +30,7 @@ public class Main{
                 }
             }
         });
-        button.setBounds(50,200,95,30);
+        button.setBounds(50,200,200,30);
         result.setBounds(150, 200, 400, 30);
         frame.add(button);
         frame.add(result);
